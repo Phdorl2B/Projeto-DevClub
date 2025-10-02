@@ -243,6 +243,7 @@ section {
                     transition: 0.7s;
                     transition-delay: 0.3s;
                     opacity: 0;
+                    font-weight: bold;
 
                 }
 
@@ -292,4 +293,9 @@ section {
         }
 
     }
+}
+
+a{
+    color: black;
+    text-decoration: none;
 }
